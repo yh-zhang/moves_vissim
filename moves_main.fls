@@ -1,0 +1,6 @@
+PWD I:/eclipse_workspace/moves
+INPUT c:/texlive/2014/texmf.cnf
+INPUT c:/texlive/2014/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2014/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT i:/eclipse_workspace/moves/moves_main.py
+OUTPUT I:/eclipse_workspace/moves/moves_main.log
